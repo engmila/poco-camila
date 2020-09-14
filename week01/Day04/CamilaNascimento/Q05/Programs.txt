@@ -1,0 +1,38 @@
+1. Prints the numbers from 1-100 except:
+★ For multiples of five, print “Marco”
+★ For multiples of seven, print “Polo”
+★ For multiples of five and seven, print “MarcoPolo”
+
+
+var numlist = []; //array numlist
+var num = 0; //int num (Integer number)
+
+
+//Insert the numbers 1 to 100 in the array numlist
+for ( var i = 1; i <= 100; i++)
+{	
+	numlist.push(i);
+}
+
+//Go to each number stored in the array and check
+//if it is multiple of 5 or 7 or both
+for ( var j = 0; j < 100; j++)
+{
+	num = parse.int(numlist[j].tostring());
+
+	if(num%5 == 0 ) //check if the number is multiple of 5
+	{
+		if(i%7 == 0) //check if the number is multiple of 7 too
+		{
+			numlist[num] = "MarcoPolo"; //Change the number in the array to "Marcopolo"
+		}
+		else //if the number is only multiple of 5
+		{
+			numlist[num] = "Marco"; //Change the number in the array to "Marco"
+		}	
+	}
+	else if(i%7 == 0) //check if the number is multiple of 7
+	{
+		numlist[num] = "Polo"; //Change the number in the array to "Polo"
+	}		
+}

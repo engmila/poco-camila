@@ -1,0 +1,4 @@
+How can you delete a folder using the CLI?
+
+ You can delete a folder using the command rm:
+	rm -r <foldername> (remove the all folder)

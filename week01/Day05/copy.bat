@@ -1,0 +1,12 @@
+xcopy "C:\Users\Daniel\Desktop\powercoders\week01\README.md" "C:\Users\Daniel\Desktop\powercoders\week02\" /z /i
+xcopy "C:\Users\Daniel\Desktop\powercoders\week01\README.md" "C:\Users\Daniel\Desktop\powercoders\week03\" /z /i
+xcopy "C:\Users\Daniel\Desktop\powercoders\week01\README.md" "C:\Users\Daniel\Desktop\powercoders\week04\" /z /i
+xcopy "C:\Users\Daniel\Desktop\powercoders\week01\README.md" "C:\Users\Daniel\Desktop\powercoders\week05\" /z /i
+xcopy "C:\Users\Daniel\Desktop\powercoders\week01\README.md" "C:\Users\Daniel\Desktop\powercoders\week06\" /z /i
+xcopy "C:\Users\Daniel\Desktop\powercoders\week01\README.md" "C:\Users\Daniel\Desktop\powercoders\week07\" /z /i
+xcopy "C:\Users\Daniel\Desktop\powercoders\week01\README.md" "C:\Users\Daniel\Desktop\powercoders\week08\" /z /i
+xcopy "C:\Users\Daniel\Desktop\powercoders\week01\README.md" "C:\Users\Daniel\Desktop\powercoders\week09\" /z /i
+xcopy "C:\Users\Daniel\Desktop\powercoders\week01\README.md" "C:\Users\Daniel\Desktop\powercoders\week10\" /z /i
+xcopy "C:\Users\Daniel\Desktop\powercoders\week01\README.md" "C:\Users\Daniel\Desktop\powercoders\week11\" /z /i
+xcopy "C:\Users\Daniel\Desktop\powercoders\week01\README.md" "C:\Users\Daniel\Desktop\powercoders\week12\" /z /i
+xcopy "C:\Users\Daniel\Desktop\powercoders\week01\README.md" "C:\Users\Daniel\Desktop\powercoders\week13\" /z /i

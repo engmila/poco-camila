@@ -1,0 +1,6 @@
+What do the commands pushd and popd do?
+
+The pushd command saves the current working directory in memory.
+
+The popd command changes the current directory that was most recently stored by the pushd
+
